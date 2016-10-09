@@ -11,10 +11,10 @@ using namespace mylib;
 
 
 ClassTemplate::ClassTemplate() {
-  
+
 }
 
 
 ClassTemplate::~ClassTemplate() {
-  
+
 }
